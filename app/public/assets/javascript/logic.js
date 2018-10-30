@@ -1,3 +1,4 @@
+//Chosen CSS
 var config = {
     ".chosen-select": {},
     ".chosen-select-deselect": {
@@ -59,9 +60,10 @@ var config = {
           $("#q10").val()
         ]
       };
+        var currentURL = window.location.origin;
 
       // AJAX post the data to the friends API.
-      $.post("/api/friends", userData, function(data) {
+      $.post(currentURL+ "/api/friends", userData, function(data) {
 
         // Grab the result from the AJAX post so that the best match's name and photo are displayed.
         $("#match-name").text(data.name);
