@@ -1,7 +1,7 @@
 var friendData = 
 [ {
-    "name": "Ahmed",
-    "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+    "name": "Unamused Cat",
+    "photo": "https://images.unsplash.com/photo-1533738699159-d0c68059bb61?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0bb9888db1d270eab08c77f41120dfca&w=1000&q=80",
     "scores": [
     "5",
     "1",
@@ -17,8 +17,8 @@ var friendData =
     },
 
     {
-    "name": "Jacob Deming",
-    "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+    "name": "Bootsie",
+    "photo": "https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg?auto=compress&cs=tinysrgb&h=350",
     "scores": [
     "4",
     "2",
@@ -34,8 +34,8 @@ var friendData =
     },
 
     {
-    "name": "Jeremiah Scanlon",
-    "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+    "name": "Jenkins",
+    "photo": "https://images.pexels.com/photos/177809/pexels-photo-177809.jpeg?auto=compress&cs=tinysrgb&h=350",
     "scores": [
     "5",
     "2",
@@ -51,8 +51,8 @@ var friendData =
     },
 
     {
-    "name": "Louis T. Delia",
-    "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+    "name": "The Good Reverend Whiskers",
+    "photo": "https://www.petmd.com/sites/default/files/cat-with-food-shutterstock_179469749.jpg",
     "scores": [
     "3",
     "3",
@@ -68,7 +68,7 @@ var friendData =
     },
 
     {
-    "name": "Lou Ritter",
+    "name": "Orangey",
     "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
     "scores": [
     "4",
@@ -84,8 +84,8 @@ var friendData =
     ]
     },
     {
-    "name": "Jordan Biason",
-    "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+    "name": "Mr Hungry",
+    "photo": "https://i1.wp.com/consciouscat.net/wp-content/uploads/2017/10/cat-table-scraps-e1507559915607.jpg?resize=500%2C333&ssl=1",
     "scores": [
     "4",
     "4",
@@ -100,7 +100,7 @@ var friendData =
     ]
     },
     {
-    "name": "Blah",
+    "name": "Elderly Cat Owners",
     "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
     "scores": [
     "2",
@@ -116,8 +116,8 @@ var friendData =
     ]
     },
     {
-    "name": "Marissa",
-    "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+    "name": "Screechy Baby",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqBSyGgAWhBTD6oR721VYAS7o8R7k-hGDNvb8rvj8csjoA14eR",
     "scores": [
     "4",
     "3",
